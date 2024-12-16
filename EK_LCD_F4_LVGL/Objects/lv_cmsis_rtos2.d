@@ -1,0 +1,13 @@
+.\objects\lv_cmsis_rtos2.o: LVGL\src\osal\lv_cmsis_rtos2.c
+.\objects\lv_cmsis_rtos2.o: LVGL\src\osal\lv_os.h
+.\objects\lv_cmsis_rtos2.o: LVGL\src\osal\../lv_conf_internal.h
+.\objects\lv_cmsis_rtos2.o: LVGL\src\osal\../lv_conf_kconfig.h
+.\objects\lv_cmsis_rtos2.o: .\LVGL\examples\porting\../../lv_conf.h
+.\objects\lv_cmsis_rtos2.o: LVGL\src\osal\../misc/lv_types.h
+.\objects\lv_cmsis_rtos2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_cmsis_rtos2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_cmsis_rtos2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_cmsis_rtos2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\lv_cmsis_rtos2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\lv_cmsis_rtos2.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\lv_cmsis_rtos2.o: LVGL\src\osal\lv_os_none.h

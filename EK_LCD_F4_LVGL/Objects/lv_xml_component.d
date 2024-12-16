@@ -1,0 +1,12 @@
+.\objects\lv_xml_component.o: LVGL\src\others\xml\lv_xml_component.c
+.\objects\lv_xml_component.o: LVGL\src\others\xml\lv_xml_component.h
+.\objects\lv_xml_component.o: LVGL\src\others\xml\../../misc/lv_types.h
+.\objects\lv_xml_component.o: LVGL\src\others\xml\../../misc/../lv_conf_internal.h
+.\objects\lv_xml_component.o: LVGL\src\others\xml\../../misc/../lv_conf_kconfig.h
+.\objects\lv_xml_component.o: .\LVGL\examples\porting\../../lv_conf.h
+.\objects\lv_xml_component.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_xml_component.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_xml_component.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_xml_component.o: D:\MDK5\ARM\ARMCC\Bin\..\include\inttypes.h
+.\objects\lv_xml_component.o: D:\MDK5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\lv_xml_component.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdarg.h
